@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nomor": 1,
+    "judul": "Dzikr Setelah Shalat",
+    "translate": "Dzikr After Salah"
+  },
+  {
+    "id": 2,
+    "nomor": 2,
+    "judul": "Dzikr Pagi",
+    "translate": "Morning Dzikr"
+  },
+  {
+    "id": 3,
+    "nomor": 3,
+    "judul": "Dzikr Petang",
+    "translate": "Evening Dzikr"
+  }
+]

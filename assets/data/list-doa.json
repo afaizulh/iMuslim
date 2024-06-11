@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nomor": 1,
+    "judul": "Doa Harian",
+    "translate": "Daily Dua"
+  },
+  {
+    "id": 2,
+    "nomor": 2,
+    "judul": "Doa Pilihan",
+    "translate": "Dua Selected"
+  }
+]
